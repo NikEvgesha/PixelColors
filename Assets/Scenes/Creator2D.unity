@@ -1271,7 +1271,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2301342536014645291}
         m_TargetAssemblyTypeName: CreatorSaver, Assembly-CSharp
-        m_MethodName: Save
+        m_MethodName: SaveByte
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2667,7 +2667,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2301342536014645291}
         m_TargetAssemblyTypeName: CreatorSaver, Assembly-CSharp
-        m_MethodName: Load
+        m_MethodName: LoadByte
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
